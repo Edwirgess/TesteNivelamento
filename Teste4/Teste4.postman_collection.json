@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "27ac58ca-4f9a-49db-8b9a-cdb0a567f7e2",
+		"name": "Teste4",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30742474",
+		"_collection_link": "https://lively-resonance-128496.postman.co/workspace/New-Team-Workspace~d56c7383-6b24-46b3-b004-73e24efbcd8a/collection/30742474-27ac58ca-4f9a-49db-8b9a-cdb0a567f7e2?action=share&source=collection_link&creator=30742474"
+	},
+	"item": [
+		{
+			"name": "GetBradesco",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
